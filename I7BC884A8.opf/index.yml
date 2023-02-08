@@ -1,0 +1,79 @@
+id: e50d70244eb146658ddf707cce76647c
+annotation_type: index
+revision: '00001'
+annotations:
+  077b6d1cc22f440497bfc13bc707bbbd:
+    base: E0BE.txt
+    Chapters:
+    - title: 'CANTO I: Kapilavāstuvarṇana'
+      span:
+        start: 0
+        end: 6171
+    - title: 'CANTO II: Rājavarṇana'
+      span:
+        start: 6172
+        end: 12637
+    - title: 'CANTO III: Tathāgatavarṇana'
+      span:
+        start: 12638
+        end: 17738
+    - title: 'CANTO IV: Bhāryāyācitaka'
+      span:
+        start: 17739
+        end: 23699
+    - title: 'CANTO V: Nandapravrājana'
+      span:
+        start: 23700
+        end: 30651
+    - title: 'CANTO VI: Bhāryāvilāpa'
+      span:
+        start: 30652
+        end: 36990
+    - title: 'CANTO VII: Nandivilāpa'
+      span:
+        start: 36991
+        end: 44032
+    - title: 'CANTO VIII: Strīvighāta'
+      span:
+        start: 44033
+        end: 51815
+    - title: 'CANTO IX: Madāpavāda'
+      span:
+        start: 51816
+        end: 58876
+    - title: 'CANTO X: Svarganidarśana'
+      span:
+        start: 58877
+        end: 67286
+    - title: 'CANTO XI: Svargāpavāda'
+      span:
+        start: 67287
+        end: 73775
+    - title: 'CANTO XII: Paryavamarśa'
+      span:
+        start: 73776
+        end: 78098
+    - title: 'CANTO XIII: Śīlendriyajaya'
+      span:
+        start: 78099
+        end: 83676
+    - title: 'CANTO XIV: Ādiprasthāno'
+      span:
+        start: 83677
+        end: 89130
+    - title: 'CANTO XV: Vitarkaprahāṇa'
+      span:
+        start: 89131
+        end: 96112
+    - title: 'CANTO XVI: Āryasatyavyākhyāna'
+      span:
+        start: 96113
+        end: 109199
+    - title: 'CANTO XVII: Amṛtādhigama'
+      span:
+        start: 109200
+        end: 118910
+    - title: 'CANTO XVIII: Ājñāvyākaraṇa'
+      span:
+        start: 118911
+        end: 127827

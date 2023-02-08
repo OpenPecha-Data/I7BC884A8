@@ -1,0 +1,16 @@
+id: I7BC884A8
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:12:27.409559
+last_modified: 2023-02-08 16:12:27.409740
+source_metadata:
+  title: 'Aśvaghoṣa: Saundarananda'
+  language: sa
+bases:
+  E0BE:
+    base_file: E0BE.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
